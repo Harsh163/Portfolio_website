@@ -1,0 +1,72 @@
+.testimonial-card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 30px 25px;
+  max-width: 780px;
+  margin: 0 auto;
+  text-align: center;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.05);
+  min-height: 400px;
+}
+
+.testimonial-img-container {
+  margin-bottom: 15px;
+}
+
+.testimonial-img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  border: 3px solid #007bff;
+  object-fit: cover;
+  margin: 0 auto;
+}
+
+.testimonial-name {
+  font-size: 20px;
+  font-weight: 700;
+  color: #111;
+  margin-top: 5px;
+  margin-bottom: 4px;
+}
+
+.testimonial-job {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 6px;
+}
+
+.testimonial-relationship {
+  display: inline-block;
+  font-size: 13px;
+  color: #007bff;
+  background-color: #eef4ff;
+  padding: 5px 12px;
+  border-radius: 20px;
+  margin-bottom: 15px;
+}
+
+.testimonial-text {
+  font-style: italic;
+  font-size: 15px;
+  color: #333;
+  line-height: 1.7;
+  margin-top: 10px;
+}
+
+/* Optional Swiper arrow override */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #007bff;
+  font-size: 20px;
+  background-color: rgba(0, 123, 255, 0.1);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  top: 45%;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  background-color: rgba(0, 123, 255, 0.2);
+}

@@ -1,0 +1,24 @@
+# Environment & secrets
+.env
+
+# Local database
+*.sqlite3
+
+# Media files (uploaded by admin/forms)
+media/
+# OR use this combo to keep the folder but not the files:
+# /media/*
+# !/media/.gitkeep
+
+# Git folders if zipping or moving projects
+.git/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Staticfiles (collected files)
+staticfiles/
+
+# VS Code and IDE files
+.vscode/
