@@ -1,9 +1,18 @@
 services:
   - type: web
-    name: harsh-portfolio
+    name: portfolio-website
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn website.wsgi:application
+    pythonVersion: 3.8.0
     envVars:
-      - key: DJANGO_SETTINGS_MODULE
-        value: website.settings
+      - key: SECRET_KEY
+        sync: false
+      - key: DEBUG
+        sync: false
+      - key: CLOUD_NAME
+        sync: false
+      - key: API_KEY
+        sync: false
+      - key: API_SECRET
+        sync: false
