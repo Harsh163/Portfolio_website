@@ -1,0 +1,1048 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-07-11T17:04:58.647Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Harsh",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-07-11T17:05:11.784Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Harsh Hingu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-07-11T17:08:42.415Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "1",
+    "object_repr": "Python & Django - 85%",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-07-11T17:08:53.328Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "2",
+    "object_repr": "SQL - 80%",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-07-11T17:09:23.025Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "3",
+    "object_repr": "Tableau & Power BI - 70%",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-07-11T17:09:37.520Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "4",
+    "object_repr": "AI/ML - 60%",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-07-11T17:14:38.389Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Master's in Data Analytics at Dublin Business School",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-07-11T17:20:16.693Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Bachelor of Engineering - BE at University of Mumbai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-07-11T17:21:35.978Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Executive software developer @ Ascent Health",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Responsibilities\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-07-11T17:21:48.296Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Executive software developer @ Ascent Health",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-07-11T17:22:39.979Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "1",
+    "object_repr": "Recommendation by Darshit Kothari",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Profile picture\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-07-11T17:23:01.508Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "2",
+    "object_repr": "Recommendation by Dishi Bhinde",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Profile picture\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-07-11T17:26:14.677Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "F1 GOAT DRIVERS: DRIVEN BY DATA",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-07-20T04:48:29.428Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Python core by Sololearn",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-07-20T04:49:36.718Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "tp by SoloLearn",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-07-21T01:08:41.899Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "tp by SoloLearn",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-07-28T01:52:39.962Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Python core by Sololearn",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add about",
+    "content_type": 7,
+    "codename": "add_about"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change about",
+    "content_type": 7,
+    "codename": "change_about"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete about",
+    "content_type": 7,
+    "codename": "delete_about"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view about",
+    "content_type": 7,
+    "codename": "view_about"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add certification",
+    "content_type": 8,
+    "codename": "add_certification"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change certification",
+    "content_type": 8,
+    "codename": "change_certification"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete certification",
+    "content_type": 8,
+    "codename": "delete_certification"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view certification",
+    "content_type": 8,
+    "codename": "view_certification"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add education",
+    "content_type": 9,
+    "codename": "add_education"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change education",
+    "content_type": 9,
+    "codename": "change_education"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete education",
+    "content_type": 9,
+    "codename": "delete_education"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view education",
+    "content_type": 9,
+    "codename": "view_education"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add experience",
+    "content_type": 10,
+    "codename": "add_experience"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change experience",
+    "content_type": 10,
+    "codename": "change_experience"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete experience",
+    "content_type": 10,
+    "codename": "delete_experience"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view experience",
+    "content_type": 10,
+    "codename": "view_experience"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add project",
+    "content_type": 11,
+    "codename": "add_project"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change project",
+    "content_type": 11,
+    "codename": "change_project"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete project",
+    "content_type": 11,
+    "codename": "delete_project"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view project",
+    "content_type": 11,
+    "codename": "view_project"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add recommendation",
+    "content_type": 12,
+    "codename": "add_recommendation"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change recommendation",
+    "content_type": 12,
+    "codename": "change_recommendation"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete recommendation",
+    "content_type": 12,
+    "codename": "delete_recommendation"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view recommendation",
+    "content_type": 12,
+    "codename": "view_recommendation"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 49,
+  "fields": {
+    "name": "Can add skill",
+    "content_type": 13,
+    "codename": "add_skill"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 50,
+  "fields": {
+    "name": "Can change skill",
+    "content_type": 13,
+    "codename": "change_skill"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 51,
+  "fields": {
+    "name": "Can delete skill",
+    "content_type": 13,
+    "codename": "delete_skill"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 52,
+  "fields": {
+    "name": "Can view skill",
+    "content_type": 13,
+    "codename": "view_skill"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$J8UH6hSruW7gZg3xdNBvqc$oHcDEmKJens1SPuA/G5Zd24PxSC6KmitwErXWFfzDf0=",
+    "last_login": "2025-07-28T01:51:40.304Z",
+    "is_superuser": true,
+    "username": "Harsh",
+    "first_name": "",
+    "last_name": "",
+    "email": "harshhingu016@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-07-11T10:55:01.616Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "portfolio",
+    "model": "about"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "portfolio",
+    "model": "certification"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "portfolio",
+    "model": "education"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "portfolio",
+    "model": "experience"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "portfolio",
+    "model": "project"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "portfolio",
+    "model": "recommendation"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 13,
+  "fields": {
+    "app_label": "portfolio",
+    "model": "skill"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ve2ks84r8z60j3hztvbje84pooo65d70",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2pAyDLS4dO8ZCDCMVA0kpV0Z765NutDtf-_9l_BhW4vfel78TOIslDj9bjGkR647oHuotyZTq-syR7kr8qBdXhvl5-Vw_w5K6OVbw6AzJjRM2iZlAHNwPOWYYjSOR3SEwSpIoHEAImN5hAmJWJNyrFi8P-rEODY:1ugD1g:CA9i3mp2mcy6LTvgEd0CNujMn3wThlIQq7ljhA_o6cE",
+    "expire_date": "2025-08-11T01:51:40.349Z"
+  }
+},
+{
+  "model": "portfolio.experience",
+  "pk": 1,
+  "fields": {
+    "title": "Executive software developer",
+    "company_name": "Ascent Health",
+    "location": "Maharashtra, India",
+    "description": "During my tenure as an executive at Ascent Wellness and Pharma Solutions, I had the privilege of spearheading a pivotal project within the Robotic Process Automation (RPA) team. My leadership was instrumental in developing a comprehensive management tool tailored to optimize critical business processes such as item creation, stock sales, and ERP operations. Utilizing Python scripting, we engineered a robust solution that revolutionized workflow efficiency and operational performance.",
+    "start_date": "2022-07-01",
+    "end_date": "2023-06-01",
+    "role_type": "Full-time",
+    "responsibilities": "● Led a multifaceted project aimed at implementing a management tool within the RPA domain, overseeing all aspects from conception to deployment. \r\n● Engaged closely with business teams to gather requirements, assess feasibility, and develop strategic roadmaps for project execution.\r\n● Orchestrated the planning, architecture, and programming phases of the project, ensuring alignment with organizational objectives and stakeholder expectations.\r\n● Leveraged Python programming expertise to develop and enhance automation scripts for three concurrent projects, driving continuous improvement and innovation. \r\n● Undertook the maintenance and optimization of existing automation solutions, proactively identifying areas for enhancement and efficiency gains.\r\n● Acquired proficiency in Automation Anywhere tool and led the migration from V11 to A360, streamlining our automation processes and ensuring compatibility with evolving technology standards."
+  }
+},
+{
+  "model": "portfolio.experience",
+  "pk": 2,
+  "fields": {
+    "title": "Executive software developer",
+    "company_name": "Ascent Health",
+    "location": "Mumbai, Maharashtra, India",
+    "description": "As an intern at Ascent Wellness and Pharma Solutions, I was immersed in the dynamic intersection of healthcare and technology. My primary focus was on leveraging Python scripting and programming to provide innovative solutions for ongoing projects. In the realm of Robotic Process Automation (RPA), I played a pivotal role in streamlining workflows and enhancing efficiency through automation.",
+    "start_date": "2022-02-01",
+    "end_date": "2022-07-01",
+    "role_type": "Internship",
+    "responsibilities": ""
+  }
+},
+{
+  "model": "portfolio.education",
+  "pk": 1,
+  "fields": {
+    "institution": "Dublin Business School",
+    "degree": "Master's in Data Analytics",
+    "start_date": "2024-01-01",
+    "end_date": "2025-01-01",
+    "description": "I explored a wide range of industry-relevant topics including Python for Data Analysis, Database & Data Warehousing, Business Intelligence, Machine Learning, Big Data Tools, and Strategic Decision Making. My coursework included hands-on assignments and group projects focused on real-time dashboards, ETL processes, cloud data processing, and predictive modeling.",
+    "activities": ""
+  }
+},
+{
+  "model": "portfolio.education",
+  "pk": 2,
+  "fields": {
+    "institution": "University of Mumbai",
+    "degree": "Bachelor of Engineering - BE",
+    "start_date": "2018-01-01",
+    "end_date": "2022-01-01",
+    "description": "Completed my Bachelor's in Computer Science with a strong foundation in software engineering, operating systems, data structures, and database management systems. During this time, I developed an interest in automation and analytics, leading to several academic and personal projects in Python and SQL. I also gained exposure to web development, participated in college tech events, and built custom tools for task automation that laid the groundwork for my RPA and software development journey.",
+    "activities": ""
+  }
+},
+{
+  "model": "portfolio.certification",
+  "pk": 1,
+  "fields": {
+    "title": "HTML",
+    "issuer": "SoloLearn",
+    "issue_date": "2020-08-01",
+    "expiration_date": null,
+    "certificate_url": "https://www.sololearn.com/Certificate/1014-15023464/pdf/",
+    "license_number": "",
+    "credential_id": null,
+    "skills": "",
+    "image": ""
+  }
+},
+{
+  "model": "portfolio.certification",
+  "pk": 2,
+  "fields": {
+    "title": "Python core",
+    "issuer": "Sololearn",
+    "issue_date": "2024-02-01",
+    "expiration_date": null,
+    "certificate_url": "https://api2.sololearn.com/v2/certificates/CC-85WKTXYA/image/png",
+    "license_number": null,
+    "credential_id": null,
+    "skills": "",
+    "image": "media/certifications/898b493b-64ec-4db3-9cb8-f982b0fef030_5_snlksj"
+  }
+},
+{
+  "model": "portfolio.certification",
+  "pk": 3,
+  "fields": {
+    "title": "Stock market",
+    "issuer": "Varsity By Zerodha®",
+    "issue_date": "2022-02-01",
+    "expiration_date": null,
+    "certificate_url": "",
+    "license_number": "",
+    "credential_id": null,
+    "skills": "",
+    "image": ""
+  }
+},
+{
+  "model": "portfolio.certification",
+  "pk": 4,
+  "fields": {
+    "title": "Postman API Fundamentals Student Expert",
+    "issuer": "Canvas Credentials (Badgr)",
+    "issue_date": "2024-06-01",
+    "expiration_date": null,
+    "certificate_url": "https://api.badgr.io/public/assertions/EXKDBRWWSoW421K-V-ji7g",
+    "license_number": "666383a4039bf15a88486f19",
+    "credential_id": null,
+    "skills": "",
+    "image": ""
+  }
+},
+{
+  "model": "portfolio.certification",
+  "pk": 5,
+  "fields": {
+    "title": "SQL",
+    "issuer": "Sololearn",
+    "issue_date": null,
+    "expiration_date": null,
+    "certificate_url": "https://www.sololearn.com/certificates/CC-E4SRSMET",
+    "license_number": "",
+    "credential_id": null,
+    "skills": "",
+    "image": ""
+  }
+},
+{
+  "model": "portfolio.certification",
+  "pk": 6,
+  "fields": {
+    "title": "Fundamentals of the Databricks Lakehouse Platform Accreditation",
+    "issuer": "Databricks",
+    "issue_date": "2024-09-01",
+    "expiration_date": null,
+    "certificate_url": "",
+    "license_number": "",
+    "credential_id": null,
+    "skills": "",
+    "image": ""
+  }
+},
+{
+  "model": "portfolio.recommendation",
+  "pk": 1,
+  "fields": {
+    "full_name": "Darshit Kothari",
+    "job_title": "Senior Software Engineer",
+    "current_company": "66degrees",
+    "relationship": "",
+    "text": "I had the privilege of managing Harsh, where he consistently stood out as a valuable asset to the team. As a Python developer with strong data analysis skills, Harsh brought a unique ability to solve complex problems and deliver innovative solutions. His exceptional research skills and proactive approach enabled him to streamline processes, automate complex workflows, and add measurable value to our projects.  Harsh’s eagerness to learn and adapt was evident from his very first day, and by the time he left, he had shown remarkable growth. His ability to understand business needs and deliver impactful solutions made him an integral part of the team.  \"Sometimes you’ve got to run before you can walk.\" – This quote perfectly describes Harsh’s ability to dive into challenges headfirst, adapt quickly, and learn along the way. His proactive approach and determination enable him to consistently deliver remarkable results, even in unfamiliar territory.  I highly recommend Harsh for roles that demand innovation, critical thinking, and the ability to create meaningful impact.",
+    "date": "01/21/25, 06:28 AM",
+    "profile_picture": "recommendations/darshit_dp_bPqBLgH.JPG"
+  }
+},
+{
+  "model": "portfolio.recommendation",
+  "pk": 2,
+  "fields": {
+    "full_name": "Dishi Bhinde",
+    "job_title": "Data Scientist",
+    "current_company": "Accenture",
+    "relationship": "",
+    "text": "I had the privilege of mentoring Harsh, who exhibited exceptional talent and dedication in his role as RPA developer . Harsh's keen interest in research and development, coupled with strong analytical skills, made a significant impact on our team's projects. Harsh consistently demonstrated the ability to think creatively and solve complex problems effectively. His proactive approach and eagerness to learn not only enriched his own knowledge but also inspired others on the team. I highly recommend Harsh for any role where innovation, critical thinking, and a passion for excellence are valued.",
+    "date": "06/10/24, 09:32 AM",
+    "profile_picture": "recommendations/dishi_dp_2kaggBq.JPG"
+  }
+},
+{
+  "model": "portfolio.about",
+  "pk": 1,
+  "fields": {
+    "name": "Harsh Hingu",
+    "title": "Software Developer & Data Analyst",
+    "description": "\"I’m a passionate developer with 1.5 years of experience in Data Analysis, RPA, and Software Development, primarily in the Life Science & Pharma domain. Currently pursuing my Master's in Data Analytics at Dublin Business School, I'm skilled in Python, Django, SQL, and data visualization. I love building intelligent systems, automating workflows, and delivering solutions that create real impact.\"",
+    "birthday": null,
+    "website": null,
+    "phone": null,
+    "city": null,
+    "degree": null,
+    "email": "harshhingu016@gmail.com",
+    "freelance": "Available",
+    "profile_image": "profile/profile_img_1_n35Wwdp.jpg"
+  }
+},
+{
+  "model": "portfolio.skill",
+  "pk": 1,
+  "fields": {
+    "name": "Python & Django",
+    "level": 85
+  }
+},
+{
+  "model": "portfolio.skill",
+  "pk": 2,
+  "fields": {
+    "name": "SQL",
+    "level": 80
+  }
+},
+{
+  "model": "portfolio.skill",
+  "pk": 3,
+  "fields": {
+    "name": "Tableau & Power BI",
+    "level": 70
+  }
+},
+{
+  "model": "portfolio.skill",
+  "pk": 4,
+  "fields": {
+    "name": "AI/ML",
+    "level": 60
+  }
+},
+{
+  "model": "portfolio.project",
+  "pk": 1,
+  "fields": {
+    "title": "F1 GOAT DRIVERS: DRIVEN BY DATA",
+    "description": "Developed an interactive Tableau dashboard analyzing Formula 1 driver performance over multiple seasons. The project uses the F1Drivers dataset to visualize key metrics like total points, podium finishes, win percentages, and team comparisons. Included dynamic filters, year-wise trend lines, and driver-specific breakdowns to enable intuitive data exploration. Published on Tableau Public to showcase my data storytelling and dashboarding capabilities.",
+    "image": "portfolio/ChatGPT_Image_Jul_4_2025_11_49_47_PM_SotnLR7.png",
+    "link": "https://public.tableau.com/views/F1GOATDRIVENBYDATA/F1GOATDRIVENBYDATA?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+  }
+}
+]

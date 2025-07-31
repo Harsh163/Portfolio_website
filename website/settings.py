@@ -12,8 +12,10 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 
 from pathlib import Path
 import os
-import pymysql
-pymysql.install_as_MySQLdb()
+from decouple import config
+
+# import pymysql
+# pymysql.install_as_MySQLdb()
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -89,18 +91,16 @@ WSGI_APPLICATION = 'website.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'portfolio_website',
-        'USER': 'root',  # ya jo bhi MySQL user hai
-        'PASSWORD': 'root',
-        'HOST': 'localhost',
-        'PORT': '3306',
-        'OPTIONS': {
-            'charset': 'utf8mb4',
-            'init_command': "SET NAMES 'utf8mb4'",
-        }
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': config('DB_NAME'),
+        'USER': config('DB_USER'),
+        'PASSWORD': config('DB_PASSWORD'),
+        'HOST': config('DB_HOST'),
+        'PORT': config('DB_PORT'),
     }
 }
+
+
 
 
 
