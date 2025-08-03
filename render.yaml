@@ -8,6 +8,7 @@ services:
       python manage.py migrate --noinput
     startCommand: gunicorn website.wsgi:application
     staticPublishPath: portfolio/staticfiles
+    STATIC_ROOT: staticfiles
     envVars:
       - key: DJANGO_SETTINGS_MODULE
         value: website.settings
