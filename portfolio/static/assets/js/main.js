@@ -260,7 +260,14 @@
    */
   new PureCounter();
 
-  
+
+  // Portfolio lightbox (works for images and inline popups)
+  portfolioLightbox = GLightbox({
+    selector: '.portfolio-lightbox',
+    touchNavigation: true,
+    closeButton: true
+  });
+
 
   
 })()
